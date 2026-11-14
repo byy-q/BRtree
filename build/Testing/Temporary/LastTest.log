@@ -1,0 +1,1127 @@
+Start testing: Nov 14 18:16 中国标准时间
+----------------------------------------------------------
+1/1 Testing: bst_test
+1/1 Test: bst_test
+Command: "D:/vscode/black_red_tree/build/test_bs.exe"
+Directory: D:/vscode/black_red_tree/build
+"bst_test" start time: Nov 14 18:16 中国标准时间
+Output:
+----------------------------------------------------------
+value:6not found.message from searching for 6
+6 not exsit
+value:85not found.message from searching for 85
+value:85not found.message from searching for 85
+85 not exsit
+tree not empty
+tree not empty
+tree not empty
+value:29not found.message from searching for 29
+29 not exsit
+the tree size:1
+value:17not found.message from searching for 17
+value:99not found.message from searching for 99
+99 not exsit
+tree not empty
+the tree size:1
+the tree size:3
+the tree size:3
+value:6not found.message from searching for 6
+6 not exsit
+the tree size:3
+the tree size:4
+tree not empty
+the tree size:6
+value:41not found.message from searching for 41
+value:15not found.message from searching for 15
+the tree size:7
+value:90not found.message from searching for 90
+value:98not found.message from searching for 98
+98 not exsit
+value:55not found.message from searching for 55
+55 not exsit
+value:8not found.message from searching for 8
+8 not exsit
+the tree size:10
+the tree size:10
+value:0not found.message from searching for 0
+0 not exsit
+the tree size:10
+tree not empty
+value:31not found.message from searching for 31
+31 not exsit
+value:29not found.message from searching for 29
+29 not exsit
+the tree size:10
+tree not empty
+the tree size:10
+value:42not found.message from searching for 42
+42 not exsit
+value:59not found.message from searching for 59
+the tree size:10
+value:32not found.message from searching for 32
+value:69not found.message from searching for 69
+69 not exsit
+tree not empty
+value:36not found.message from searching for 36
+the tree size:12
+value:5not found.message from searching for 5
+tree not empty
+value:21not found.message from searching for 21
+the tree size:13
+value:58not found.message from searching for 58
+tree not empty
+value:0not found.message from searching for 0
+value:58not found.message from searching for 58
+value:98not found.message from searching for 98
+98 not exsit
+the tree size:13
+value:100not found.message from searching for 100
+100 not exsit
+the tree size:13
+the tree size:13
+value:85not found.message from searching for 85
+the tree size:13
+the tree size:13
+tree not empty
+the tree size:13
+tree not empty
+tree not empty
+value:95not found.message from searching for 95
+95 not exsit
+value:49not found.message from searching for 49
+49 not exsit
+the tree size:14
+tree not empty
+the tree size:14
+tree not empty
+value:19not found.message from searching for 19
+19 not exsit
+tree not empty
+tree not empty
+value:8not found.message from searching for 8
+8 not exsit
+value 81 founded. message from searching for81
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+value:32not found.message from searching for 32
+value:96not found.message from searching for 96
+96 not exsit
+value:72not found.message from searching for 72
+72 not exsit
+tree not empty
+value 11 founded. message from searching for11
+tree not empty
+the tree size:20
+tree not empty
+value 10 founded. message from searching for10
+value 17 founded. message from searching for17
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+the tree size:21
+tree not empty
+value 47 founded. message from searching for47
+next node founded. message from NextNode
+next node founded. message from NextNode
+the tree size:21
+value:20not found.message from searching for 20
+tree not empty
+the tree size:22
+tree not empty
+tree not empty
+value:83not found.message from searching for 83
+tree not empty
+value:32not found.message from searching for 32
+32 not exsit
+the tree size:22
+tree not empty
+value:31not found.message from searching for 31
+31 not exsit
+value:73not found.message from searching for 73
+73 not exsit
+tree not empty
+tree not empty
+the tree size:22
+tree not empty
+tree not empty
+value:73not found.message from searching for 73
+tree not empty
+value 81 founded. message from searching for81
+next value for value:81 does not exist. message from NextNode
+previous node founded. message from PreNode
+value 80 founded. message from searching for80
+value 46 founded. message from searching for46
+the tree size:24
+value 42 founded. message from searching for42
+the value already existed. message from insertinf value80
+the value already existed. message from insertinf value93
+the tree size:25
+tree not empty
+value 82 founded. message from searching for82
+next value for value:82 does not exist. message from NextNode
+previous node founded. message from PreNode
+the tree size:24
+value:63not found.message from searching for 63
+63 not exsit
+the tree size:24
+the tree size:24
+value:8not found.message from searching for 8
+8 not exsit
+the value already existed. message from insertinf value71
+the tree size:26
+value:19not found.message from searching for 19
+value:78not found.message from searching for 78
+78 not exsit
+tree not empty
+value 80 founded. message from searching for80
+the tree size:30
+value 10 founded. message from searching for10
+the tree size:30
+value:20not found.message from searching for 20
+the tree size:30
+the tree size:30
+value 46 founded. message from searching for46
+next value for value:46 does not exist. message from NextNode
+previous node founded. message from PreNode
+the tree size:30
+value:89not found.message from searching for 89
+89 not exsit
+the value already existed. message from insertinf value88
+value 60 founded. message from searching for60
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+tree not empty
+tree not empty
+value:97not found.message from searching for 97
+97 not exsit
+tree not empty
+value:26not found.message from searching for 26
+26 not exsit
+tree not empty
+tree not empty
+value 11 founded. message from searching for11
+the tree size:32
+tree not empty
+value:31not found.message from searching for 31
+tree not empty
+the tree size:32
+value 82 founded. message from searching for82
+the tree size:31
+value:19not found.message from searching for 19
+value:90not found.message from searching for 90
+tree not empty
+value:19not found.message from searching for 19
+19 not exsit
+the value already existed. message from insertinf value38
+value:51not found.message from searching for 51
+value:86not found.message from searching for 86
+the tree size:33
+the tree size:33
+the tree size:33
+tree not empty
+the value already existed. message from insertinf value48
+tree not empty
+tree not empty
+the value already existed. message from insertinf value57
+value 60 founded. message from searching for60
+value 75 founded. message from searching for75
+value:21not found.message from searching for 21
+21 not exsit
+the tree size:33
+the value already existed. message from insertinf value56
+the value already existed. message from insertinf value38
+tree not empty
+value:99not found.message from searching for 99
+99 not exsit
+the tree size:33
+tree not empty
+the tree size:33
+tree not empty
+value:67not found.message from searching for 67
+value:58not found.message from searching for 58
+58 not exsit
+value 76 founded. message from searching for76
+next node founded. message from NextNode
+next node founded. message from NextNode
+the value already existed. message from insertinf value35
+the tree size:33
+the tree size:33
+the tree size:33
+the tree size:33
+value:33not found.message from searching for 33
+value:65not found.message from searching for 65
+value 38 founded. message from searching for38
+value 78 founded. message from searching for78
+value 94 founded. message from searching for94
+value 93 founded. message from searching for93
+next value for value:93 does not exist. message from NextNode
+previous node founded. message from PreNode
+value:94not found.message from searching for 94
+94 not exsit
+the tree size:31
+value 84 founded. message from searching for84
+tree not empty
+value 48 founded. message from searching for48
+value 39 founded. message from searching for39
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:52not found.message from searching for 52
+52 not exsit
+the tree size:30
+value:34not found.message from searching for 34
+34 not exsit
+tree not empty
+tree not empty
+the tree size:31
+value:34not found.message from searching for 34
+34 not exsit
+the tree size:32
+the tree size:33
+value:0not found.message from searching for 0
+0 not exsit
+value 17 founded. message from searching for17
+tree not empty
+tree not empty
+value 30 founded. message from searching for30
+value 57 founded. message from searching for57
+the tree size:33
+value 10 founded. message from searching for10
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:100not found.message from searching for 100
+tree not empty
+the tree size:32
+value:94not found.message from searching for 94
+94 not exsit
+value 31 founded. message from searching for31
+the tree size:31
+tree not empty
+tree not empty
+the tree size:31
+value 38 founded. message from searching for38
+next value for value:38 does not exist. message from NextNode
+previous node founded. message from PreNode
+the value already existed. message from insertinf value47
+value:63not found.message from searching for 63
+value:51not found.message from searching for 51
+the tree size:30
+value:41not found.message from searching for 41
+the tree size:31
+the tree size:31
+the tree size:32
+value:43not found.message from searching for 43
+43 not exsit
+the tree size:32
+tree not empty
+tree not empty
+the tree size:33
+the tree size:33
+value:6not found.message from searching for 6
+6 not exsit
+tree not empty
+tree not empty
+tree not empty
+value:6not found.message from searching for 6
+6 not exsit
+tree not empty
+the tree size:33
+tree not empty
+value 21 founded. message from searching for21
+the tree size:34
+value:13not found.message from searching for 13
+13 not exsit
+tree not empty
+tree not empty
+value:50not found.message from searching for 50
+50 not exsit
+value:28not found.message from searching for 28
+value:77not found.message from searching for 77
+77 not exsit
+value:8not found.message from searching for 8
+tree not empty
+the value already existed. message from insertinf value68
+tree not empty
+value:28not found.message from searching for 28
+28 not exsit
+the tree size:37
+value:50not found.message from searching for 50
+50 not exsit
+tree not empty
+the tree size:37
+value:44not found.message from searching for 44
+44 not exsit
+the tree size:37
+value 64 founded. message from searching for64
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+value:20not found.message from searching for 20
+tree not empty
+tree not empty
+value 5 founded. message from searching for5
+tree not empty
+tree not empty
+value:81not found.message from searching for 81
+81 not exsit
+value 60 founded. message from searching for60
+tree not empty
+tree not empty
+tree not empty
+tree not empty
+tree not empty
+the tree size:38
+the value already existed. message from insertinf value72
+the tree size:38
+value:93not found.message from searching for 93
+93 not exsit
+value 36 founded. message from searching for36
+the tree size:38
+value:99not found.message from searching for 99
+99 not exsit
+tree not empty
+value 75 founded. message from searching for75
+tree not empty
+value:55not found.message from searching for 55
+55 not exsit
+value:44not found.message from searching for 44
+tree not empty
+value 57 founded. message from searching for57
+value:1not found.message from searching for 1
+tree not empty
+tree not empty
+the tree size:40
+value:41not found.message from searching for 41
+41 not exsit
+value:91not found.message from searching for 91
+91 not exsit
+the tree size:40
+value 11 founded. message from searching for11
+next node founded. message from NextNode
+next node founded. message from NextNode
+the tree size:40
+the tree size:41
+value:87not found.message from searching for 87
+87 not exsit
+tree not empty
+value 75 founded. message from searching for75
+the tree size:42
+value:43not found.message from searching for 43
+the value already existed. message from insertinf value54
+value:1not found.message from searching for 1
+1 not exsit
+tree not empty
+the tree size:43
+the value already existed. message from insertinf value17
+the tree size:43
+tree not empty
+value:1not found.message from searching for 1
+1 not exsit
+value 75 founded. message from searching for75
+the tree size:44
+the tree size:44
+the value already existed. message from insertinf value21
+value:65not found.message from searching for 65
+65 not exsit
+the value already existed. message from insertinf value36
+the tree size:44
+the tree size:44
+the tree size:44
+tree not empty
+value 54 founded. message from searching for54
+next value for value:54 does not exist. message from NextNode
+previous node founded. message from PreNode
+value 85 founded. message from searching for85
+the value already existed. message from insertinf value56
+the tree size:43
+tree not empty
+tree not empty
+value:24not found.message from searching for 24
+value 67 founded. message from searching for67
+the tree size:44
+the tree size:44
+value 77 founded. message from searching for77
+value:11not found.message from searching for 11
+the value already existed. message from insertinf value67
+the value already existed. message from insertinf value56
+value:31not found.message from searching for 31
+value:46not found.message from searching for 46
+46 not exsit
+value 4 founded. message from searching for4
+next node founded. message from NextNode
+next node founded. message from NextNode
+value 15 founded. message from searching for15
+next value for value:15 does not exist. message from NextNode
+previous node founded. message from PreNode
+value 72 founded. message from searching for72
+value 17 founded. message from searching for17
+tree not empty
+the tree size:42
+value 36 founded. message from searching for36
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:16not found.message from searching for 16
+16 not exsit
+the tree size:41
+value 85 founded. message from searching for85
+value 13 founded. message from searching for13
+tree not empty
+value:2not found.message from searching for 2
+2 not exsit
+value 69 founded. message from searching for69
+the value already existed. message from insertinf value21
+the tree size:41
+the value already existed. message from insertinf value51
+value:3not found.message from searching for 3
+value:28not found.message from searching for 28
+value:53not found.message from searching for 53
+53 not exsit
+the tree size:41
+value:19not found.message from searching for 19
+19 not exsit
+the tree size:41
+tree not empty
+tree not empty
+value:6not found.message from searching for 6
+6 not exsit
+value:3not found.message from searching for 3
+3 not exsit
+the tree size:41
+value 88 founded. message from searching for88
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:2not found.message from searching for 2
+2 not exsit
+tree not empty
+value:98not found.message from searching for 98
+98 not exsit
+the tree size:41
+value:36not found.message from searching for 36
+36 not exsit
+the tree size:41
+value:43not found.message from searching for 43
+value:74not found.message from searching for 74
+the tree size:41
+the value already existed. message from insertinf value73
+value:19not found.message from searching for 19
+19 not exsit
+the value already existed. message from insertinf value17
+tree not empty
+tree not empty
+tree not empty
+tree not empty
+value:24not found.message from searching for 24
+tree not empty
+the tree size:44
+the tree size:44
+value:4not found.message from searching for 4
+4 not exsit
+value:6not found.message from searching for 6
+value:11not found.message from searching for 11
+11 not exsit
+the tree size:44
+tree not empty
+tree not empty
+tree not empty
+tree not empty
+the value already existed. message from insertinf value14
+value 69 founded. message from searching for69
+the tree size:44
+the tree size:44
+value:50not found.message from searching for 50
+tree not empty
+tree not empty
+the tree size:44
+value 83 founded. message from searching for83
+the tree size:44
+tree not empty
+tree not empty
+value:92not found.message from searching for 92
+92 not exsit
+the tree size:46
+value 56 founded. message from searching for56
+next node founded. message from NextNode
+next node founded. message from NextNode
+value 33 founded. message from searching for33
+next value for value:33 does not exist. message from NextNode
+previous node founded. message from PreNode
+the tree size:44
+tree not empty
+the tree size:44
+tree not empty
+value:36not found.message from searching for 36
+36 not exsit
+value 14 founded. message from searching for14
+tree not empty
+the tree size:44
+value:61not found.message from searching for 61
+61 not exsit
+the value already existed. message from insertinf value89
+tree not empty
+tree not empty
+the tree size:44
+value:96not found.message from searching for 96
+value 48 founded. message from searching for48
+tree not empty
+the tree size:44
+value:1not found.message from searching for 1
+value:3not found.message from searching for 3
+value 79 founded. message from searching for79
+the tree size:43
+tree not empty
+the tree size:43
+the tree size:43
+the tree size:43
+the value already existed. message from insertinf value18
+value:4not found.message from searching for 4
+value:33not found.message from searching for 33
+33 not exsit
+the value already existed. message from insertinf value9
+value 26 founded. message from searching for26
+value 9 founded. message from searching for9
+value 60 founded. message from searching for60
+value 89 founded. message from searching for89
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+value 21 founded. message from searching for21
+tree not empty
+value 10 founded. message from searching for10
+value 43 founded. message from searching for43
+value 84 founded. message from searching for84
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:61not found.message from searching for 61
+the tree size:39
+the tree size:39
+value 9 founded. message from searching for9
+tree not empty
+value:24not found.message from searching for 24
+24 not exsit
+value 76 founded. message from searching for76
+value 27 founded. message from searching for27
+tree not empty
+the tree size:40
+tree not empty
+value:43not found.message from searching for 43
+the value already existed. message from insertinf value18
+value:38not found.message from searching for 38
+value:2not found.message from searching for 2
+tree not empty
+tree not empty
+the tree size:40
+value 78 founded. message from searching for78
+the value already existed. message from insertinf value9
+the tree size:40
+value:70not found.message from searching for 70
+the value already existed. message from insertinf value22
+value 47 founded. message from searching for47
+value:70not found.message from searching for 70
+value 23 founded. message from searching for23
+value:53not found.message from searching for 53
+53 not exsit
+tree not empty
+the tree size:39
+the value already existed. message from insertinf value40
+tree not empty
+value:4not found.message from searching for 4
+4 not exsit
+the value already existed. message from insertinf value8
+value:95not found.message from searching for 95
+95 not exsit
+value 78 founded. message from searching for78
+next value for value:78 does not exist. message from NextNode
+previous node founded. message from PreNode
+tree not empty
+tree not empty
+the tree size:39
+the tree size:39
+value 66 founded. message from searching for66
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+value:1not found.message from searching for 1
+1 not exsit
+the tree size:38
+the tree size:38
+value 68 founded. message from searching for68
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:16not found.message from searching for 16
+16 not exsit
+value 71 founded. message from searching for71
+next node founded. message from NextNode
+next node founded. message from NextNode
+the tree size:36
+the tree size:36
+value 58 founded. message from searching for58
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:99not found.message from searching for 99
+99 not exsit
+the tree size:35
+the value already existed. message from insertinf value17
+the value already existed. message from insertinf value97
+value:66not found.message from searching for 66
+66 not exsit
+the tree size:35
+the tree size:35
+the tree size:35
+the tree size:35
+value 40 founded. message from searching for40
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:46not found.message from searching for 46
+value 91 founded. message from searching for91
+value 47 founded. message from searching for47
+tree not empty
+the tree size:33
+value:95not found.message from searching for 95
+the tree size:33
+the tree size:33
+the tree size:33
+value 77 founded. message from searching for77
+next value for value:77 does not exist. message from NextNode
+previous node founded. message from PreNode
+value 60 founded. message from searching for60
+the tree size:32
+value 73 founded. message from searching for73
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:94not found.message from searching for 94
+value 69 founded. message from searching for69
+value:78not found.message from searching for 78
+value:90not found.message from searching for 90
+90 not exsit
+the tree size:30
+tree not empty
+value:20not found.message from searching for 20
+20 not exsit
+value:58not found.message from searching for 58
+58 not exsit
+value 13 founded. message from searching for13
+value:46not found.message from searching for 46
+tree not empty
+the tree size:31
+value 18 founded. message from searching for18
+value:45not found.message from searching for 45
+45 not exsit
+the tree size:31
+tree not empty
+the tree size:31
+tree not empty
+tree not empty
+value:68not found.message from searching for 68
+68 not exsit
+value:1not found.message from searching for 1
+value:36not found.message from searching for 36
+36 not exsit
+value:46not found.message from searching for 46
+tree not empty
+the tree size:33
+value:19not found.message from searching for 19
+the tree size:33
+tree not empty
+tree not empty
+value 60 founded. message from searching for60
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+the tree size:32
+tree not empty
+the tree size:32
+value:28not found.message from searching for 28
+28 not exsit
+the value already existed. message from insertinf value32
+the tree size:32
+value:25not found.message from searching for 25
+the tree size:32
+value:74not found.message from searching for 74
+tree not empty
+value 32 founded. message from searching for32
+value:24not found.message from searching for 24
+24 not exsit
+tree not empty
+tree not empty
+value 30 founded. message from searching for30
+next node founded. message from NextNode
+next node founded. message from NextNode
+value 17 founded. message from searching for17
+the tree size:33
+the tree size:33
+the tree size:34
+value 8 founded. message from searching for8
+value:61not found.message from searching for 61
+the tree size:34
+the tree size:34
+tree not empty
+the tree size:34
+tree not empty
+the tree size:34
+tree not empty
+value 92 founded. message from searching for92
+value:55not found.message from searching for 55
+value 12 founded. message from searching for12
+value 11 founded. message from searching for11
+value 5 founded. message from searching for5
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:46not found.message from searching for 46
+46 not exsit
+the tree size:33
+tree not empty
+tree not empty
+value 11 founded. message from searching for11
+value:30not found.message from searching for 30
+the value already existed. message from insertinf value97
+value 62 founded. message from searching for62
+the tree size:34
+value:4not found.message from searching for 4
+value:98not found.message from searching for 98
+the tree size:34
+value:55not found.message from searching for 55
+value:87not found.message from searching for 87
+value 35 founded. message from searching for35
+next value for value:35 does not exist. message from NextNode
+previous node founded. message from PreNode
+value:20not found.message from searching for 20
+the tree size:34
+the tree size:34
+the value already existed. message from insertinf value76
+the tree size:34
+the tree size:34
+the tree size:34
+value:41not found.message from searching for 41
+value 27 founded. message from searching for27
+value:27not found.message from searching for 27
+value 70 founded. message from searching for70
+value 89 founded. message from searching for89
+value 26 founded. message from searching for26
+tree not empty
+value 22 founded. message from searching for22
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+value:70not found.message from searching for 70
+70 not exsit
+value:23not found.message from searching for 23
+value:77not found.message from searching for 77
+77 not exsit
+the tree size:31
+the tree size:31
+the value already existed. message from insertinf value99
+tree not empty
+value:20not found.message from searching for 20
+value 33 founded. message from searching for33
+next value for value:33 does not exist. message from NextNode
+previous node founded. message from PreNode
+value:87not found.message from searching for 87
+87 not exsit
+value:27not found.message from searching for 27
+27 not exsit
+value:32not found.message from searching for 32
+the tree size:31
+value:90not found.message from searching for 90
+value:3not found.message from searching for 3
+3 not exsit
+value:55not found.message from searching for 55
+55 not exsit
+value:24not found.message from searching for 24
+24 not exsit
+tree not empty
+value 82 founded. message from searching for82
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:4not found.message from searching for 4
+4 not exsit
+tree not empty
+tree not empty
+value:47not found.message from searching for 47
+tree not empty
+value:71not found.message from searching for 71
+value 29 founded. message from searching for29
+next node founded. message from NextNode
+next node founded. message from NextNode
+the tree size:31
+tree not empty
+value 51 founded. message from searching for51
+value:98not found.message from searching for 98
+the value already existed. message from insertinf value2
+the tree size:32
+tree not empty
+tree not empty
+value 76 founded. message from searching for76
+tree not empty
+tree not empty
+value:65not found.message from searching for 65
+65 not exsit
+value:57not found.message from searching for 57
+57 not exsit
+the value already existed. message from insertinf value92
+tree not empty
+value:27not found.message from searching for 27
+tree not empty
+tree not empty
+value:1not found.message from searching for 1
+the tree size:34
+value:20not found.message from searching for 20
+20 not exsit
+the tree size:34
+the tree size:34
+the tree size:34
+value:46not found.message from searching for 46
+value 67 founded. message from searching for67
+tree not empty
+value:79not found.message from searching for 79
+the tree size:35
+value 15 founded. message from searching for15
+value:28not found.message from searching for 28
+28 not exsit
+the value already existed. message from insertinf value78
+the tree size:35
+value:71not found.message from searching for 71
+71 not exsit
+the tree size:35
+the value already existed. message from insertinf value62
+value:58not found.message from searching for 58
+tree not empty
+the tree size:36
+value:47not found.message from searching for 47
+value:41not found.message from searching for 41
+the tree size:36
+value:12not found.message from searching for 12
+12 not exsit
+tree not empty
+the tree size:36
+the tree size:36
+value:1not found.message from searching for 1
+1 not exsit
+tree not empty
+tree not empty
+the value already existed. message from insertinf value87
+value:77not found.message from searching for 77
+value 26 founded. message from searching for26
+value:47not found.message from searching for 47
+47 not exsit
+tree not empty
+value:88not found.message from searching for 88
+the tree size:38
+value:43not found.message from searching for 43
+the tree size:38
+value:50not found.message from searching for 50
+50 not exsit
+value 24 founded. message from searching for24
+the value already existed. message from insertinf value64
+tree not empty
+value 62 founded. message from searching for62
+next node founded. message from NextNode
+next node founded. message from NextNode
+the tree size:36
+value:93not found.message from searching for 93
+the tree size:36
+value 39 founded. message from searching for39
+tree not empty
+value:35not found.message from searching for 35
+value:16not found.message from searching for 16
+value:56not found.message from searching for 56
+56 not exsit
+value:98not found.message from searching for 98
+98 not exsit
+the tree size:37
+value:5not found.message from searching for 5
+5 not exsit
+value:36not found.message from searching for 36
+value:36not found.message from searching for 36
+36 not exsit
+tree not empty
+value 9 founded. message from searching for9
+tree not empty
+value 89 founded. message from searching for89
+next value for value:89 does not exist. message from NextNode
+previous node founded. message from PreNode
+value:57not found.message from searching for 57
+57 not exsit
+tree not empty
+value:21not found.message from searching for 21
+the tree size:36
+tree not empty
+value:73not found.message from searching for 73
+73 not exsit
+tree not empty
+value:59not found.message from searching for 59
+the tree size:37
+value:3not found.message from searching for 3
+3 not exsit
+value:16not found.message from searching for 16
+the tree size:37
+value 75 founded. message from searching for75
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:24not found.message from searching for 24
+tree not empty
+the value already existed. message from insertinf value83
+value 17 founded. message from searching for17
+next node founded. message from NextNode
+next node founded. message from NextNode
+value 19 founded. message from searching for19
+value:62not found.message from searching for 62
+62 not exsit
+tree not empty
+the tree size:34
+value 85 founded. message from searching for85
+value:33not found.message from searching for 33
+tree not empty
+the tree size:34
+value 18 founded. message from searching for18
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:84not found.message from searching for 84
+84 not exsit
+tree not empty
+tree not empty
+value:95not found.message from searching for 95
+the tree size:33
+tree not empty
+value:100not found.message from searching for 100
+100 not exsit
+tree not empty
+value 8 founded. message from searching for8
+value:20not found.message from searching for 20
+20 not exsit
+the tree size:35
+value:28not found.message from searching for 28
+tree not empty
+value:72not found.message from searching for 72
+72 not exsit
+value 1 founded. message from searching for1
+value 76 founded. message from searching for76
+next node founded. message from NextNode
+next node founded. message from NextNode
+value 92 founded. message from searching for92
+the value already existed. message from insertinf value31
+tree not empty
+the tree size:37
+the tree size:37
+value:98not found.message from searching for 98
+value:100not found.message from searching for 100
+the tree size:37
+the tree size:37
+value:74not found.message from searching for 74
+value:21not found.message from searching for 21
+21 not exsit
+tree not empty
+value:36not found.message from searching for 36
+value 29 founded. message from searching for29
+tree not empty
+the tree size:40
+value 31 founded. message from searching for31
+tree not empty
+value:4not found.message from searching for 4
+tree not empty
+the tree size:41
+value:76not found.message from searching for 76
+76 not exsit
+value 42 founded. message from searching for42
+next node founded. message from NextNode
+next node founded. message from NextNode
+the value already existed. message from insertinf value13
+the tree size:42
+value 6 founded. message from searching for6
+the tree size:42
+value:46not found.message from searching for 46
+46 not exsit
+the tree size:42
+value:35not found.message from searching for 35
+35 not exsit
+value:77not found.message from searching for 77
+value:68not found.message from searching for 68
+68 not exsit
+value 51 founded. message from searching for51
+value:19not found.message from searching for 19
+tree not empty
+the value already existed. message from insertinf value44
+value:62not found.message from searching for 62
+62 not exsit
+tree not empty
+the tree size:42
+value:40not found.message from searching for 40
+tree not empty
+tree not empty
+value:68not found.message from searching for 68
+68 not exsit
+the tree size:43
+tree not empty
+value 26 founded. message from searching for26
+the tree size:43
+the tree size:43
+tree not empty
+value:59not found.message from searching for 59
+59 not exsit
+value 48 founded. message from searching for48
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:77not found.message from searching for 77
+77 not exsit
+the tree size:42
+the value already existed. message from insertinf value13
+value 9 founded. message from searching for9
+tree not empty
+the tree size:44
+tree not empty
+the tree size:45
+the tree size:46
+the value already existed. message from insertinf value28
+the tree size:46
+value 72 founded. message from searching for72
+tree not empty
+tree not empty
+value:94not found.message from searching for 94
+94 not exsit
+the tree size:48
+value 9 founded. message from searching for9
+next node founded. message from NextNode
+next node founded. message from NextNode
+tree not empty
+value 3 founded. message from searching for3
+the tree size:50
+tree not empty
+tree not empty
+the tree size:50
+tree not empty
+value 15 founded. message from searching for15
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:19not found.message from searching for 19
+value:94not found.message from searching for 94
+94 not exsit
+value:22not found.message from searching for 22
+22 not exsit
+the value already existed. message from insertinf value77
+tree not empty
+the tree size:50
+the value already existed. message from insertinf value26
+the tree size:50
+tree not empty
+value 13 founded. message from searching for13
+next node founded. message from NextNode
+next node founded. message from NextNode
+value:62not found.message from searching for 62
+value 64 founded. message from searching for64
+the tree size:48
+tree not empty
+value:18not found.message from searching for 18
+value 67 founded. message from searching for67
+value:27not found.message from searching for 27
+the tree size:51
+tree not empty
+the value already existed. message from insertinf value23
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"bst_test" end time: Nov 14 18:16 中国标准时间
+"bst_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 14 18:16 中国标准时间
