@@ -138,6 +138,43 @@ test_bs/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_bs.dir\build.make CMakeFiles/test_bs.dir/build
 .PHONY : test_bs/fast
 
+#=============================================================================
+# Target rules for targets named test_br
+
+# Build rule for target.
+test_br: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 test_br
+.PHONY : test_br
+
+# fast build rule for target.
+test_br/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_br.dir\build.make CMakeFiles/test_br.dir/build
+.PHONY : test_br/fast
+
+test/test_br.obj: test/test_br.cpp.obj
+.PHONY : test/test_br.obj
+
+# target to build an object file
+test/test_br.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_br.dir\build.make CMakeFiles/test_br.dir/test/test_br.cpp.obj
+.PHONY : test/test_br.cpp.obj
+
+test/test_br.i: test/test_br.cpp.i
+.PHONY : test/test_br.i
+
+# target to preprocess a source file
+test/test_br.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_br.dir\build.make CMakeFiles/test_br.dir/test/test_br.cpp.i
+.PHONY : test/test_br.cpp.i
+
+test/test_br.s: test/test_br.cpp.s
+.PHONY : test/test_br.s
+
+# target to generate assembly for a file
+test/test_br.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_br.dir\build.make CMakeFiles/test_br.dir/test/test_br.cpp.s
+.PHONY : test/test_br.cpp.s
+
 test/test_bs.obj: test/test_bs.cpp.obj
 .PHONY : test/test_bs.obj
 
@@ -171,7 +208,11 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... test
+	@echo ... test_br
 	@echo ... test_bs
+	@echo ... test/test_br.obj
+	@echo ... test/test_br.i
+	@echo ... test/test_br.s
 	@echo ... test/test_bs.obj
 	@echo ... test/test_bs.i
 	@echo ... test/test_bs.s

@@ -7,6 +7,7 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bit \
   D:/programdata/MinGW/include/c++/13.2.0/bits/algorithmfwd.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/alloc_traits.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/allocated_ptr.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/allocator.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/basic_ios.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/basic_ios.tcc \
@@ -14,10 +15,12 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bits/basic_string.tcc \
   D:/programdata/MinGW/include/c++/13.2.0/bits/char_traits.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/charconv.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/chrono.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/concept_check.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/cpp_type_traits.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/cxxabi_forced.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/cxxabi_init_exception.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/deque.tcc \
   D:/programdata/MinGW/include/c++/13.2.0/bits/enable_special_members.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/erase_if.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/exception.h \
@@ -44,6 +47,7 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bits/node_handle.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/ostream.tcc \
   D:/programdata/MinGW/include/c++/13.2.0/bits/ostream_insert.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/parse_numbers.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/postypes.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/predefined_ops.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/ptr_traits.h \
@@ -52,13 +56,17 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bits/range_access.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/refwrap.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/requires_hosted.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/shared_ptr.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/shared_ptr_base.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/specfun.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/std_abs.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/std_function.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/std_mutex.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_algo.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_algobase.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_bvector.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_construct.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/stl_deque.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_function.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_heap.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator.h \
@@ -66,6 +74,7 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator_base_types.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_numeric.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_pair.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/stl_stack.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_tempbuf.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_uninitialized.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stl_vector.h \
@@ -74,6 +83,8 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bits/string_view.tcc \
   D:/programdata/MinGW/include/c++/13.2.0/bits/stringfwd.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/uniform_int_dist.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/unique_lock.h \
+  D:/programdata/MinGW/include/c++/13.2.0/bits/unique_ptr.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/unordered_map.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/uses_allocator.h \
   D:/programdata/MinGW/include/c++/13.2.0/bits/uses_allocator_args.h \
@@ -81,21 +92,26 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/bits/vector.tcc \
   D:/programdata/MinGW/include/c++/13.2.0/cctype \
   D:/programdata/MinGW/include/c++/13.2.0/cerrno \
+  D:/programdata/MinGW/include/c++/13.2.0/chrono \
   D:/programdata/MinGW/include/c++/13.2.0/clocale \
   D:/programdata/MinGW/include/c++/13.2.0/cmath \
   D:/programdata/MinGW/include/c++/13.2.0/compare \
+  D:/programdata/MinGW/include/c++/13.2.0/condition_variable \
   D:/programdata/MinGW/include/c++/13.2.0/cstddef \
   D:/programdata/MinGW/include/c++/13.2.0/cstdint \
   D:/programdata/MinGW/include/c++/13.2.0/cstdio \
   D:/programdata/MinGW/include/c++/13.2.0/cstdlib \
+  D:/programdata/MinGW/include/c++/13.2.0/ctime \
   D:/programdata/MinGW/include/c++/13.2.0/cwchar \
   D:/programdata/MinGW/include/c++/13.2.0/cwctype \
   D:/programdata/MinGW/include/c++/13.2.0/debug/assertions.h \
   D:/programdata/MinGW/include/c++/13.2.0/debug/debug.h \
+  D:/programdata/MinGW/include/c++/13.2.0/deque \
   D:/programdata/MinGW/include/c++/13.2.0/exception \
   D:/programdata/MinGW/include/c++/13.2.0/ext/aligned_buffer.h \
   D:/programdata/MinGW/include/c++/13.2.0/ext/alloc_traits.h \
   D:/programdata/MinGW/include/c++/13.2.0/ext/atomicity.h \
+  D:/programdata/MinGW/include/c++/13.2.0/ext/concurrence.h \
   D:/programdata/MinGW/include/c++/13.2.0/ext/numeric_traits.h \
   D:/programdata/MinGW/include/c++/13.2.0/ext/string_conversions.h \
   D:/programdata/MinGW/include/c++/13.2.0/ext/type_traits.h \
@@ -106,6 +122,7 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/iostream \
   D:/programdata/MinGW/include/c++/13.2.0/istream \
   D:/programdata/MinGW/include/c++/13.2.0/limits \
+  D:/programdata/MinGW/include/c++/13.2.0/mutex \
   D:/programdata/MinGW/include/c++/13.2.0/new \
   D:/programdata/MinGW/include/c++/13.2.0/numeric \
   D:/programdata/MinGW/include/c++/13.2.0/ostream \
@@ -113,6 +130,8 @@ CMakeFiles/test_bs.dir/test/test_bs.cpp.obj: D:/vscode/black_red_tree/test/test_
   D:/programdata/MinGW/include/c++/13.2.0/pstl/glue_numeric_defs.h \
   D:/programdata/MinGW/include/c++/13.2.0/pstl/pstl_config.h \
   D:/programdata/MinGW/include/c++/13.2.0/random \
+  D:/programdata/MinGW/include/c++/13.2.0/ratio \
+  D:/programdata/MinGW/include/c++/13.2.0/stack \
   D:/programdata/MinGW/include/c++/13.2.0/stdexcept \
   D:/programdata/MinGW/include/c++/13.2.0/stdlib.h \
   D:/programdata/MinGW/include/c++/13.2.0/streambuf \
@@ -205,10 +224,6 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/allocator.h:
 
 D:/vscode/black_red_tree/test/test_bs.cpp:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/basic_ios.h:
-
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_function.h:
-
 D:/programdata/MinGW/include/c++/13.2.0/bits/algorithmfwd.h:
 
 D:/programdata/MinGW/x86_64-w64-mingw32/include/swprintf.inl:
@@ -223,8 +238,6 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/std_function.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/array:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator.h:
-
 D:/programdata/MinGW/include/c++/13.2.0/bits/hash_bytes.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/erase_if.h:
@@ -237,16 +250,6 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/postypes.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/alloc_traits.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/basic_ios.tcc:
-
-D:/programdata/MinGW/include/c++/13.2.0/bits/basic_string.h:
-
-D:/programdata/MinGW/include/c++/13.2.0/bits/basic_string.tcc:
-
-D:/programdata/MinGW/include/c++/13.2.0/ext/aligned_buffer.h:
-
-D:/programdata/MinGW/include/c++/13.2.0/bits/char_traits.h:
-
 D:/programdata/MinGW/include/c++/13.2.0/bits/hashtable.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/ostream:
@@ -254,6 +257,24 @@ D:/programdata/MinGW/include/c++/13.2.0/ostream:
 D:/programdata/MinGW/include/c++/13.2.0/cstddef:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/charconv.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/allocated_ptr.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/basic_ios.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/basic_ios.tcc:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/basic_string.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/parse_numbers.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/basic_string.tcc:
+
+D:/programdata/MinGW/include/c++/13.2.0/ext/aligned_buffer.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/char_traits.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/chrono.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/functexcept.h:
 
@@ -263,13 +284,15 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/cpp_type_traits.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/cxxabi_forced.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator_base_types.h:
-
 D:/programdata/MinGW/include/c++/13.2.0/bits/cxxabi_init_exception.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/enable_special_members.h:
+D:/programdata/MinGW/include/c++/13.2.0/bits/range_access.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_heap.h:
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_algobase.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/deque.tcc:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/enable_special_members.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/cerrno:
 
@@ -278,8 +301,6 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/exception_defines.h:
 D:/programdata/MinGW/include/c++/13.2.0/bits/exception_ptr.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/functional_hash.h:
-
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_numeric.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/hashtable_policy.h:
 
@@ -293,13 +314,15 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/nested_exception.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/locale_classes.h:
 
+D:/programdata/MinGW/include/c++/13.2.0/bits/std_mutex.h:
+
 D:/programdata/MinGW/include/c++/13.2.0/bits/locale_classes.tcc:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/locale_facets.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/localefwd.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator_base_funcs.h:
+D:/programdata/MinGW/include/c++/13.2.0/bits/shared_ptr_base.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/memory_resource.h:
 
@@ -313,8 +336,6 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/stl_vector.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/move.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_construct.h:
-
 D:/programdata/MinGW/include/c++/13.2.0/bits/predefined_ops.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/node_handle.h:
@@ -327,15 +348,13 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/ptr_traits.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/random.h:
 
-D:/programdata/MinGW/include/c++/13.2.0/bits/range_access.h:
-
-D:/programdata/MinGW/include/c++/13.2.0/bits/stl_algobase.h:
-
 D:/programdata/MinGW/include/c++/13.2.0/bits/refwrap.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/istream:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/std_abs.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/shared_ptr.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/requires_hosted.h:
 
@@ -345,9 +364,31 @@ D:/programdata/MinGW/include/c++/13.2.0/bits/stl_algo.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/stl_bvector.h:
 
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_construct.h:
+
+D:/programdata/MinGW/x86_64-w64-mingw32/include/locale.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/ratio:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_deque.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_function.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_heap.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator_base_funcs.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_iterator_base_types.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_numeric.h:
+
 D:/programdata/MinGW/include/c++/13.2.0/exception:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/stl_pair.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/stl_stack.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/stl_tempbuf.h:
 
@@ -363,6 +404,10 @@ D:/programdata/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/opt_random.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/uniform_int_dist.h:
 
+D:/programdata/MinGW/include/c++/13.2.0/bits/unique_lock.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/bits/unique_ptr.h:
+
 D:/programdata/MinGW/include/c++/13.2.0/bits/unordered_map.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/bits/uses_allocator_args.h:
@@ -377,11 +422,17 @@ D:/programdata/MinGW/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_base.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/cctype:
 
+D:/programdata/MinGW/include/c++/13.2.0/tr1/legendre_function.tcc:
+
+D:/programdata/MinGW/include/c++/13.2.0/chrono:
+
 D:/programdata/MinGW/include/c++/13.2.0/clocale:
 
 D:/programdata/MinGW/include/c++/13.2.0/cmath:
 
 D:/programdata/MinGW/include/c++/13.2.0/compare:
+
+D:/programdata/MinGW/include/c++/13.2.0/condition_variable:
 
 D:/programdata/MinGW/x86_64-w64-mingw32/include/wctype.h:
 
@@ -390,6 +441,8 @@ D:/programdata/MinGW/include/c++/13.2.0/cstdint:
 D:/programdata/MinGW/include/c++/13.2.0/cstdio:
 
 D:/programdata/MinGW/include/c++/13.2.0/cstdlib:
+
+D:/programdata/MinGW/include/c++/13.2.0/ctime:
 
 D:/programdata/MinGW/include/c++/13.2.0/cwchar:
 
@@ -401,9 +454,13 @@ D:/vscode/black_red_tree/basetree.hpp:
 
 D:/programdata/MinGW/include/c++/13.2.0/debug/debug.h:
 
+D:/programdata/MinGW/include/c++/13.2.0/deque:
+
 D:/programdata/MinGW/include/c++/13.2.0/ext/alloc_traits.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/ext/atomicity.h:
+
+D:/programdata/MinGW/include/c++/13.2.0/ext/concurrence.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/ext/numeric_traits.h:
 
@@ -427,6 +484,8 @@ D:/programdata/MinGW/include/c++/13.2.0/iostream:
 
 D:/programdata/MinGW/include/c++/13.2.0/limits:
 
+D:/programdata/MinGW/include/c++/13.2.0/mutex:
+
 D:/programdata/MinGW/include/c++/13.2.0/new:
 
 D:/programdata/MinGW/include/c++/13.2.0/numeric:
@@ -436,6 +495,8 @@ D:/programdata/MinGW/include/c++/13.2.0/pstl/execution_defs.h:
 D:/programdata/MinGW/include/c++/13.2.0/pstl/glue_numeric_defs.h:
 
 D:/programdata/MinGW/include/c++/13.2.0/random:
+
+D:/programdata/MinGW/include/c++/13.2.0/stack:
 
 D:/programdata/MinGW/include/c++/13.2.0/stdlib.h:
 
@@ -460,8 +521,6 @@ D:/programdata/MinGW/include/c++/13.2.0/tr1/ell_integral.tcc:
 D:/programdata/MinGW/include/c++/13.2.0/tr1/gamma.tcc:
 
 D:/programdata/MinGW/include/c++/13.2.0/tr1/hypergeometric.tcc:
-
-D:/programdata/MinGW/include/c++/13.2.0/tr1/legendre_function.tcc:
 
 D:/programdata/MinGW/include/c++/13.2.0/tr1/modified_bessel_func.tcc:
 
@@ -536,8 +595,6 @@ D:/programdata/MinGW/x86_64-w64-mingw32/include/crtdefs.h:
 D:/programdata/MinGW/x86_64-w64-mingw32/include/errno.h:
 
 D:/programdata/MinGW/x86_64-w64-mingw32/include/limits.h:
-
-D:/programdata/MinGW/x86_64-w64-mingw32/include/locale.h:
 
 D:/programdata/MinGW/x86_64-w64-mingw32/include/malloc.h:
 

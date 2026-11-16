@@ -1,2 +1,3 @@
-bst_test 1 0.0291033
+bst_test 7 0.00438176
+BRtree_test 2 4.54516
 ---
